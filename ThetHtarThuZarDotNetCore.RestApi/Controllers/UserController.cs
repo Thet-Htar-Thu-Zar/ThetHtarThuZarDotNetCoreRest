@@ -13,7 +13,7 @@ namespace ThetHtarThuZarDotNetCore.RestApi.Controllers
         {
             //return Ok("Welcome");
 
-            return StatusCode(StatusCodes.Status200OK, "Welcome!");
+            return StatusCode(StatusCodes.Status200OK, "Welcome😍!");
         }
     }
 }
