@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThetHtarThuZarDotNetCore.RestApi", "ThetHtarThuZarDotNetCore.RestApi\ThetHtarThuZarDotNetCore.RestApi.csproj", "{F177F604-42BF-44CD-A108-CDE711DB02BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F177F604-42BF-44CD-A108-CDE711DB02BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F177F604-42BF-44CD-A108-CDE711DB02BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F177F604-42BF-44CD-A108-CDE711DB02BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F177F604-42BF-44CD-A108-CDE711DB02BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3102BACE-3D39-4BCD-9440-1F8ED461EFFC}
+	EndGlobalSection
+EndGlobal
